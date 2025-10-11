@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\New folder\rwa25-ip-ivanNavialic-master\rwa25-ip-ivanNavialic-master\Software\DomainModel\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\Ivan\Desktop\New folder\rwa25-ip-ivanNavialic-master\rwa25-ip-ivanNavialic-master\Software\DomainModel\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\Ivan\Desktop\New folder\rwa25-ip-ivanNavialic-master\rwa25-ip-ivanNavialic-master\Software\DomainModel\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\New folder\rwa25-ip-ivanNavialic-master\rwa25-ip-ivanNavialic-master\Software\DomainModel\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\New folder\rwa25-ip-ivanNavialic-master\rwa25-ip-ivanNavialic-master\Software\DomainModel\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\Ivan\Desktop\New folder\rwa25-ip-ivanNavialic-master\rwa25-ip-ivanNavialic-master\Software\DomainModel\DomainModel\obj\Debug\DomainModel.pdb
